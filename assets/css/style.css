@@ -1,0 +1,15 @@
+body{
+  background-color: #D3C7B3;
+}
+ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  height: 50px;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  height: 100px;
+}
