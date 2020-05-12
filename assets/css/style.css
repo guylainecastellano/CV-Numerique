@@ -10,12 +10,15 @@ ul{
 }
 h1{
   font-family: 'Indie Flower', cursive;
-  font-size: 50px;
+  font-size: 70px;
 }
 h2{
   border: solid 5px #352c26;
   padding: 20px;
-  margin: 20px 10px;
+  width: 450px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 header{
   background-image: url('../img/Profil.jpg');
@@ -26,4 +29,31 @@ header{
 }
 h3{
   font-family: 'Indie Flower', cursive;
+}
+#Apropos{
+  text-align: center;
+  margin: 0 20em 0 20em;
+  height: 250px;
+}
+.block{
+  border: dotted 5px #352c26;
+  margin: 1em 5em ;
+  padding: 2em;
+}
+#Cequejefais{
+  text-align: center;
+}
+footer{
+  border: dotted 5px #352c26;
+  margin: 1em 5em ;
+  padding: 2em;
+  padding-top: 0.1em;
+  padding-bottom: 0.5em;
+  background-image: url('../img/DSC_0338.jpg');
+  background-position: right;
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+  text-align: center;
 }
