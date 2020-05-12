@@ -23,5 +23,7 @@ header{
   background-repeat: no-repeat;
   height: 300px;
   text-align: center;
-
+}
+h3{
+  font-family: 'Indie Flower', cursive;
 }
