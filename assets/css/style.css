@@ -26,6 +26,7 @@ header{
   background-repeat: no-repeat;
   height: 300px;
   text-align: center;
+  margin-left: 5em;
 }
 h3{
   font-family: 'Indie Flower', cursive;
@@ -45,15 +46,14 @@ h3{
 }
 footer{
   border: dotted 5px #352c26;
-  margin: 1em 5em ;
+  margin: 1em 25em ;
   padding: 2em;
   padding-top: 0.1em;
   padding-bottom: 0.5em;
-  background-image: url('../img/DSC_0338.jpg');
-  background-position: right;
-  background-position: left;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 300px;
   text-align: center;
+}
+img{
+  height: 250px;
+  display: flex;
+  margin: auto;
 }
